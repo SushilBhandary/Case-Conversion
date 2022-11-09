@@ -6,7 +6,7 @@ The website focuses on learning DOM manipulation .
 - querySelector
 - innerHTML
 
-## [Live Preview](https://)
+## [Live Preview](https://case-conversions.netlify.app/)
 
 ### SnapShot of the Webpage
 
